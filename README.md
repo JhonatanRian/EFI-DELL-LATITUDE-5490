@@ -1,8 +1,7 @@
 # EFI_DELL_LATITUDE_5490
 
-[download](https://mega.nz/file/LtxwWbYQ#wmXlHDb2XjZRd2RAauI0KJ166FOwpnZ-uf9mtzKWqCM) - mega
 
-EFI que eu uso em meu dell latitude 5490, demorei uma semana para fazer correções sensiveis e na geração de dsdts.
+EFI que eu uso em meu dell latitude 5490 com macos Ventura.
 
 ## Opencore
 ### Versão testada:
