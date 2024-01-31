@@ -1,4 +1,4 @@
-# EFI_DELL_LATITUDE_5490
+# EFI-DELL-LATITUDE-5490
 
 
 EFI que eu uso em meu dell latitude 5490 com macos Ventura.
