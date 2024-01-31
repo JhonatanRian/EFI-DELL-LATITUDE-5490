@@ -47,4 +47,6 @@ EFI que eu uso em meu dell latitude 5490 com macos Ventura.
   - USB-C
 
 ## Screenshots
+![](https://github.com/JhonatanRian/EFI_DELL_LATITUDE_5490/blob/main/screenshots/iScreen%20Shoter%20-%20Terminal%20-%20240130234633.png?raw=true)
 
+![](https://github.com/JhonatanRian/EFI_DELL_LATITUDE_5490/blob/main/screenshots/iScreen%20Shoter%20-%20Monitor%20de%20Atividade%20-%20240130235025.png?raw=true)
